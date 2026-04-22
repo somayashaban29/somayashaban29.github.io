@@ -1,0 +1,161 @@
+body {
+    font-family:'cairo',sans-serif;
+    background-color:#e6eef6;
+    color:#1a3d63;
+    direction: rtl;
+}
+
+.header {
+    height: 100px;
+    background-image: url("media/header.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(62, 229, 255, 0.664);
+}
+
+.header1 {
+    height: 100px;
+    background-image: url("media/image0.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(62, 229, 255, 0.664);
+}
+
+.header2 {
+    height: 100px;
+    background-image: url("media/image5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(62, 229, 255, 0.664);
+}
+
+.header3 {
+    height: 100px;
+    background-image: url("media/image7.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(62, 229, 255, 0.664);
+}
+
+.header4 {
+    height: 100px;
+    background-image: url("media/image7.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(62, 229, 255, 0.664);
+}
+
+p {
+    text-align: justify;
+    font-size: 22px;
+}
+
+h2 {
+    color: #006a85;
+}
+
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border:2px solid #afafaf;
+    padding: 15px;
+    border-radius: 10px;
+
+    flex: 1 1 300px;
+    min-width: 600px;
+    font-size: 22px;
+}
+
+.card img {
+    width: 150px;
+    height: 150px;
+    object-fit:cover;
+    border-radius:10px;
+}
+
+.text h3 {
+    margin: 0;
+    color :#555;
+}
+
+.card-link {
+    flex: 1;
+    display: block;
+    text-decoration: none;
+    color:inherit
+}
+
+a {
+    display:block
+}
+
+hr{
+    color: #555;
+    size: 50px;
+}
+
+.intro {
+    text-align: center;
+}
+
+ul {
+    font-size: 22px;
+}
+
+p {
+    align-items: center;
+}
+
+a:hover{
+    color:#add4ff;
+}
+
+a :visited {
+    color: rgb(174, 139, 207);
+}
+
+footer {
+    text-align: center;
+}
+
+.h1 {
+    text-align: center;
+}
