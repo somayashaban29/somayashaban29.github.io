@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-    height: 100px;
+    height: 180px;
     background-image: url("media/header.jpg");
     background-size: cover;
     background-position: center;
@@ -20,7 +20,7 @@ body {
 }
 
 .header1 {
-    height: 100px;
+    height: 180px;
     background-image: url("media/image0.jpg");
     background-size: cover;
     background-position: center;
@@ -34,7 +34,7 @@ body {
 }
 
 .header2 {
-    height: 100px;
+    height: 180px;
     background-image: url("media/image5.jpg");
     background-size: cover;
     background-position: center;
@@ -48,7 +48,7 @@ body {
 }
 
 .header3 {
-    height: 100px;
+    height: 180px;
     background-image: url("media/image7.jpg");
     background-size: cover;
     background-position: center;
@@ -62,7 +62,7 @@ body {
 }
 
 .header4 {
-    height: 100px;
+    height: 180px;
     background-image: url("media/image7.jpg");
     background-size: cover;
     background-position: center;
